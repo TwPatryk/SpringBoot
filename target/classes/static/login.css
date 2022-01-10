@@ -1,0 +1,25 @@
+#login-form {
+    width: 500px;
+    margin: 300px auto 0 auto;
+    text-align: center;
+}
+
+#login-form input[type=text] {
+    font-size: 26px;
+    width: 95%;
+    margin: 15px auto;
+    padding: 10px;
+}
+#login-form input[type=password] {
+    font-size: 26px;
+    width: 95%;
+    margin: 15px auto;
+    padding: 10px;
+}
+
+#login-form input[type=submit] {
+    font-size: 26px;
+    width: 30%;
+    margin: 15px auto;
+    padding: 10px;
+}
